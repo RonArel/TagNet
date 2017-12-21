@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Main"
+        android:id="@+id/Main"
+
+        />
+    <item
+        android:icon="@drawable/ic_person_add_black_24dp"
+        android:title="Following"
+        android:id="@+id/Following"
+
+        />
+    <item
+        android:icon="@drawable/ic_person_add_black_24dp"
+        android:title="Followers"
+        android:id="@+id/Followers"
+        />
+    <item
+        android:icon="@drawable/ic_accessibility_black_24dp"
+        android:title="Tagged"
+        android:id="@+id/Tagged"
+
+        />
+    <item
+        android:icon="@drawable/ic_wc_black_24dp"
+        android:title="Matched"
+        android:id="@+id/Matched"
+        />
+
+</menu>
